@@ -1,0 +1,22 @@
+{
+  "name": "clase-repaso",
+  "version": "1.0.0",
+  "description": "practica sobre sprint 1-2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josemiranda989/clase-repaso.git"
+  },
+  "author": "Josemiranda989",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josemiranda989/clase-repaso/issues"
+  },
+  "homepage": "https://github.com/Josemiranda989/clase-repaso#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
